@@ -1,0 +1,17 @@
+{
+  "título": "<título do mangá>",
+  "descrição": "<descrição do mangá>",
+  "artista": "<artista de mangá>",
+  "autor": "<autor do mangá>",
+  "capa": "<mangacoverurl.jpg>",
+  "capítulos": {
+    "<número do capítulo>": {
+      "título": "<nome do capítulo>",
+      "volume": "<número do volume>",
+      "grupos": {
+        "<nome do grupo>": "/proxy/api/imgur/chapter/<id do imgur>/"
+      },
+      "última atualização": "1616368746"
+    },
+  }
+}
